@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.5.1",
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "app.R": {
+      "checksum": "2a749b1bd6d3b8288066139621fe5e6c"
+    }
+  },
+  "users": null
+}
